@@ -9,9 +9,9 @@ I am following:
 
 ## Repository Structure
 - **basics/**  
+
    **HelloWorld/** 
-  - `hello-world.go` — first program in Go
-  
+  - `hello-world.go` — first program in Go  
   **Values/** 
   - `values.go` — exploring constants, variables, and basic data types  
 
