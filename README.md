@@ -12,7 +12,8 @@ I am following:
 
    **HelloWorld/** 
   - `hello-world.go` — first program in Go  
-  **Values/** 
+  
+   **Values/** 
   - `values.go` — exploring constants, variables, and basic data types  
 
 As I progress, I’ll continue adding examples and exercises from *Go by Example* and the official docs into structured folders.
