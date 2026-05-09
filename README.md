@@ -22,4 +22,14 @@ I am following:
    **Variables/** 
   - `variables.go.go` — learning variable declaration styles, zero values, type inference, 
 
+   **if_else**  
+  - Learnt about `if`, `else if`, and `else` statements in Go  
+
+  **loops**  
+  - Basic understanding of how `for` loops work in Go  
+
+  **switch**  
+  - Learnt how `switch` statements work in Go, including implicit breaks and multiple case values
+
+
 As I progress, I’ll continue adding examples and exercises from *Go by Example* and the official docs into structured folders.
