@@ -15,5 +15,11 @@ I am following:
   
    **Values/** 
   - `values.go` — exploring constants, variables, and basic data types  
+   
+   **Constants/** 
+  - `constants.go` — understanding constant declarations, typed vs untyped constants 
+   
+   **Variables/** 
+  - `variables.go.go` — learning variable declaration styles, zero values, type inference, 
 
 As I progress, I’ll continue adding examples and exercises from *Go by Example* and the official docs into structured folders.
