@@ -20,6 +20,16 @@ I am following:
   - `constants.go` — understanding constant declarations, typed vs untyped constants 
    
    **Variables/** 
-  - `variables.go.go` — learning variable declaration styles, zero values, type inference, 
+  - `variables.go` — learning variable declaration styles, zero values, type inference, 
+
+   **if_else**  
+  - `if.go` — Learnt about `if`, `else if`, and `else` statements in Go  
+
+  **loops**  
+  - `for.go` —  Basic understanding of how `for` loops work in Go  
+
+  **switch**  
+  - `switch.go` — Learnt how `switch` statements work in Go, including implicit breaks and multiple case values
+
 
 As I progress, I’ll continue adding examples and exercises from *Go by Example* and the official docs into structured folders.
