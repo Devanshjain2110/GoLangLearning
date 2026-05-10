@@ -12,7 +12,7 @@ func main(){
 	fmt.Println(i)
 	i++
 }
-
+fmt.Println(i)
 // Conditional loop
 for j:=0; j<3; j++{
 	fmt.Println(j)
