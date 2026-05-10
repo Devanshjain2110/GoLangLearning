@@ -30,6 +30,11 @@ I am following:
 
   **switch**  
   - `switch.go` — Learnt how `switch` statements work in Go, including implicit breaks and multiple case values
-
+ 
+  **Arrays**  
+  - `array.go` —  learning fixed-size collections, array declaration syntax, zero values, indexing, iteration, and how arrays are value types
+  
+  **Slices**  
+  - `slice.go` — learning dynamic-length collections, slice creation using make, zero vs empty slices, len and cap, append, and how slices reference an underlying array
 
 As I progress, I’ll continue adding examples and exercises from *Go by Example* and the official docs into structured folders.
